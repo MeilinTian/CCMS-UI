@@ -1,2 +1,9 @@
-This is just a simple UI design for ccms website (mobile design 375px * 667px).
-<img width="990" alt="overall_design" src="https://user-images.githubusercontent.com/63445625/213368485-63714538-6b83-46aa-9362-e7e240164d00.png">
+# CCMS-UI Design
+
+---
+
+This is just a simple UI design of four pages for ccms website (mobile design).
+
+For referece:
+
+![overall_design.png](CCMS-UI%20Design%20238d7914cd17435f9b8b9e6285b23bad/overall_design.png)
