@@ -6,4 +6,4 @@ This is just a simple UI design of four pages for ccms website (mobile design).
 
 For referece:
 
-![overall_design.png](CCMS-UI%20Design%20238d7914cd17435f9b8b9e6285b23bad/overall_design.png)
+<img width="990" alt="overall_design" src="https://user-images.githubusercontent.com/63445625/213369502-22308bb3-9bd0-4316-9125-41727f9d051e.png">
