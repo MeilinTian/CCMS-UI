@@ -1,0 +1,142 @@
+.banner {
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.banner .right {
+    height: 100%;
+    line-height: 70px;
+}
+
+.banner i {
+    margin-top: 10px;
+    font-size: 26px;
+    color: #444
+}
+
+.banner .left {
+    width: 50%;
+    height: 100%;
+    background: url(../images/banner-2.png) ;
+    background-size: 100%;
+}
+
+.body {
+    margin: 0 14px;
+    /* height: 160px; */
+    background-color: rgb(209, 209, 209);
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+
+.search {
+    margin: 14px auto;
+    border-radius: 20px;
+    height: 40px;
+    /* width: 92%; */
+    background-color: #eee;
+    color: #555;
+    padding: 10px;
+    padding-left: 15px;
+    font-size: 14px;
+    
+}
+
+.search i {
+    vertical-align: middle;
+}
+
+.list .button{
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 15px;
+    width: 92%;
+    margin: 0 auto;
+    font-size: 14px;
+    background-color: #fff;
+}
+
+/* results */
+.results {
+    margin-top: 10px;
+}
+
+.results li {
+    width: 92%;
+    margin: 10px auto;
+    background-color: #eee;
+    padding: 10px 10px;
+    border-radius: 15px;
+}
+
+.results li .type {
+    font-size: 11px;
+    font-weight: 900;
+}
+.results li .title {
+    font-weight: 900;
+    line-height: 10px;
+    font-size: 15px;
+    color: #4a2847;
+}
+
+.results li .des {
+    font-size: 10px;
+    color: #777;
+}
+
+.bottom {
+    position: fixed;
+    display: flex;
+    left: 0;
+    bottom: 0;
+
+    padding: 0 11px;
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    border-top: 1px solid #444;
+}
+
+.bottom ul {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.bottom li {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.bottom li a {
+    color: #444;
+    font-size: 11px;
+}
+
+.bottom .iconfont {
+    display: block;
+    font-size: 30px;
+    color: #444;
+}
+
+.bottom .icon-search {
+    font-size: 30px;
+}
+
+
+
+.active a,
+.active i {
+    color: #95398c!important;
+}
